@@ -1,0 +1,8 @@
+body{
+  font-family: "Playfair Display", serif;
+}
+.coffee-bottle{
+  /* background-color: aqua; */
+  background-image: url("assets/coffee-bottle.png");
+  background-repeat: no-repeat;
+}
