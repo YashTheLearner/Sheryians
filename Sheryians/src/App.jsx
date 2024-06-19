@@ -1,5 +1,5 @@
 import './App.css'
-
+import Coffee from './components/Coffee'
 function App() {
   
   return (
@@ -19,8 +19,7 @@ function App() {
         <div className='w-[40vw] h-[100vh] coffee-bottle'></div>        
       </div>
 
-    <CoffeeCompo/>
-      
+    <Coffee/>
     </>
   )
 }

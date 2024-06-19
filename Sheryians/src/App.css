@@ -6,3 +6,9 @@ body{
   background-image: url("assets/coffee-bottle.png");
   background-repeat: no-repeat;
 }
+.coffee{
+  /* background-color: aqua; */
+  background-image:url("assets/Group36.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
