@@ -20,9 +20,6 @@ function App() {
       </div>
 
     <CoffeeCompo/>
-      <div>
-        helloooooo guyss
-      </div>
       
     </>
   )
