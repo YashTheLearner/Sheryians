@@ -19,7 +19,7 @@ function App() {
         <div className='w-[40vw] h-[100vh] coffee-bottle'></div>        
       </div>
 
-
+    <CoffeeCompo/>
 
       
     </>
